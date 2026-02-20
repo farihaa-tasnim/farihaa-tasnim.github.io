@@ -2,10 +2,9 @@
     "site": {
         "title": "Portfolio | Fariha Tasnim",
         "logo": {
-            "text": "Fariha",
-            "span": "Tasnim."
+            "text": "Dev",
+            "span": "Portfolio."
         },
-        "favicon": "public/images/favicon.ico",
         "nav": [
             {
                 "label": "Home",
@@ -46,19 +45,7 @@
                 "title": "Contact Me"
             }
         },
-        "footer": "&copy; 2026 Fariha Tasnim. All rights reserved.",
-        "policies": {
-            "terms": {
-                "title": "Terms of Service | Fariha Tasnim",
-                "heading": "Terms of Service",
-                "lastUpdated": "February 15, 2026"
-            },
-            "privacy": {
-                "title": "Privacy Policy | Fariha Tasnim",
-                "heading": "Privacy Policy",
-                "lastUpdated": "February 15, 2026"
-            }
-        }
+        "footer": "&copy; 2024 Fariha Tasnim. All rights reserved."
     },
     "profile": {
         "name": "Fariha Tasnim",
@@ -72,211 +59,88 @@
             },
             {
                 "icon": "fa-brands fa-linkedin-in",
-                "url": "https://linkedin.com/in/the-shoaib2"
+                "url": "#"
             },
             {
-                "icon": "fa-brands fa-telegram",
-                "url": "https://telegram.me/the_shoaib2"
+                "icon": "fa-brands fa-twitter",
+                "url": "#"
             },
             {
-                "icon": "fa-brands fa-instagram",
-                "url": "https://instagram.com/the.shoaib3"
+                "icon": "fa-brands fa-dribbble",
+                "url": "#"
             }
         ]
     },
     "about": {
         "text": [
-            "I'm a versatile developer specializing in the intersection of design and cutting-edge technology. My journey began with web customization years ago, and today I build high-performance, AI-powered solutions across multiple platforms.",
-            "I specialize in developing intelligent web ecosystems, machine learning integrations, and native Android and iOS applications. I focus on creating AI-integrated experiences that are not only visually stunning but also redefine user interaction through smart, efficient technology."
+            "I'm a passionate developer with a keen eye for design. My journey started when I customized my first website 5 years ago. Since then, I've been hooked on the web ecosystem.",
+            "I specialize in building high-quality websites and applications that are not only visually stunning but also user-friendly and efficient."
         ],
         "stats": [
             {
-                "value": "05+",
+                "value": "01+",
                 "label": "Years Experience"
             },
             {
-                "value": "20+",
+                "value": "50+",
                 "label": "Projects Completed"
             },
-            {
-                "value": "20+",
-                "label": "Happy Clients"
-            }
+            
         ]
     },
-    "experience": [
+    "skills": [
         {
-            "role": "Senior Full Stack Dev",
-            "company": "Tech Solutions Inc.",
-            "duration": "2023 - Present",
-            "description": "Leading a team of developers to build scalable AI-driven web applications. Architecting cloud solutions using AWS and Docker."
+            "name": "HTML5",
+            "icon": "fa-brands fa-html5",
+            "desc": "Semantic markup, Accessibility"
         },
         {
-            "role": "Full Stack Developer",
-            "company": "Creative Agency",
-            "duration": "2021 - 2023",
-            "description": "Developed and maintained multiple client websites using React and Node.js. Improved site performance by 40%."
+            "name": "JavaScript",
+            "icon": "fa-brands fa-js",
+            "desc": "ES6+, DOM Manipulation"
         },
         {
-            "role": "Junior Web Developer",
-            "company": "StartUp Hub",
-            "duration": "2019 - 2021",
-            "description": "Collaborated with designers to implement responsive UI/UX. Built RESTful APIs for mobile applications."
+            "name": "React",
+            "icon": "fa-brands fa-react",
+            "desc": "Hooks, Components, State"
+        },
+        {
+            "name": "Node.js",
+            "icon": "fa-brands fa-node",
+            "desc": "Express, REST APIs"
+        },
+        {
+            "name": "Git",
+            "icon": "fa-brands fa-git-alt",
+            "desc": "Version Control, GitHub"
         }
     ],
-    "skills": {
-        "programming_languages": [
-            "C",
-            "C++",
-            "Python",
-            "Java",
-            "C#",
-            "PHP",
-            "JavaScript",
-            "TypeScript",
-            "Dart"
-        ],
-        "frontend": [
-            "HTML5",
-            "CSS3",
-            "React",
-            "Vue.js",
-            "Tailwind CSS",
-            "Bootstrap"
-        ],
-        "backend_and_apis": [
-            "Node.js",
-            "Express.js",
-            "Django",
-            "Flask",
-            "Laravel",
-            "Spring Boot",
-            "GraphQL",
-            "Kafka"
-        ],
-        "mobile_development": [
-            "Android",
-            "Kotlin",
-            "Flutter",
-            "React Native"
-        ],
-        "ai_machine_learning": [
-            "TensorFlow",
-            "PyTorch",
-            "OpenCV",
-            "Scikit-learn",
-            "Pandas",
-            "Seaborn",
-            "NLP"
-        ],
-        "databases": [
-            "MySQL",
-            "PostgreSQL",
-            "MongoDB",
-            "SQLite",
-            "Redis"
-        ],
-        "devops_and_tools": [
-            "AWS",
-            "GCP",
-            "Docker",
-            "Linux",
-            "Git",
-            "Bash"
-        ],
-        "tools_and_ides": [
-            "VS Code",
-            "Firebase",
-            "Postman",
-            "Electron"
-        ],
-        "design_and_media": [
-            "Adobe Photoshop",
-            "Filmora"
-        ]
-    },
     "projects": [
         {
-            "name": "Meal Sphere",
-            "description": "Meal planning and recipe sharing platform.",
-            "tech_stack": [
-                "React",
-                "Next.js",
-                "Node.js",
-                "TypeScript",
-                "Prisma",
-                "MongoDB",
-                "Tailwind CSS",
-                "React Hook Form",
-                "NextAuth.js",
-                "Dotenv",
-                "Framer Motion",
-                "Recharts",
-                "Lucide React",
-                "Nodemailer"
-            ],
-            "repository": "https://github.com/the-shoaib2/meal-sphere",
-            "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fmeal-sphere.vercel.app?w=1200",
-            "live_preview": "https://meal-sphere.vercel.app"
+            "title": "E-Commerce Platform",
+            "category": "Web Design",
+            "imageGradient": "linear-gradient(45deg, #FF6B6B, #556270)",
+            "description": "A fully functional online store with cart and checkout.",
+            "link": "#"
         },
         {
-            "name": "AI Agent",
-            "description": "Intelligent agent platform leveraging NLP and automation for productivity.",
-            "tech_stack": [
-                "Python",
-                "TensorFlow",
-                "PyTorch",
-                "NLP",
-                "Docker"
-            ],
-            "repository": "https://github.com/the-shoaib2/ai-agent",
-            "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgithub.com%2Fthe-shoaib2%2Fai-agent?w=1200",
-            "live_preview": null
+            "title": "Task Management App",
+            "category": "App Development",
+            "imageGradient": "linear-gradient(45deg, #4ECDC4, #556270)",
+            "description": "Productivity tool for teams to track progress.",
+            "link": "#"
         },
         {
-            "name": "Pregnify",
-            "description": "AI-powered platform for personalized pregnancy risk prediction, real-time health monitoring, and seamless patient-doctor communication.",
-            "tech_stack": [
-                "Node.js",
-                "Express.js",
-                "Prisma",
-                "MySQL",
-                "JWT",
-                "OpenAI",
-                "React",
-                "Vite",
-                "Tailwind CSS",
-                "ShadCN UI",
-                "Chart.js"
-            ],
-            "repository": "https://github.com/the-shoaib2/Pregnify",
-            "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgithub.com%2Fthe-shoaib2%2FPregnify?w=1200",
-            "live_preview": null
-        },
-        {
-            "name": "Supershop Management System",
-            "description": "Spring Boot-based inventory & sales management application.",
-            "tech_stack": [
-                "Java",
-                "Spring Boot",
-                "MongoDB",
-                "Kafka",
-                "JWT",
-                "Cloudinary",
-                "OpenAPI",
-                "React",
-                "Vite",
-                "Tailwind CSS",
-                "ShadCN UI",
-                "Radix UI",
-                "Framer Motion",
-                "React Router",
-                "React Query",
-                "Zustand",
-                "Recharts"
-            ],
-            "repository": "https://github.com/the-shoaib2/Super-Shop-Management",
-            "image": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgithub.com%2Fthe-shoaib2%2FSuper-Shop-Management?w=1200",
-            "live_preview": null
+            "title": "Finance Dashboard",
+            "category": "UI/UX Design",
+            "imageGradient": "linear-gradient(45deg, #C7F464, #556270)",
+            "description": "Visualizing data for personal finance tracking.",
+            "link": "#"
         }
-    ]
+    ],
+    "contact": {
+        "location": "New York, USA",
+        "email": "[EMAIL_ADDRESS]",
+        "phone": "[PHONE_NUMBER]"
+    }
+}
