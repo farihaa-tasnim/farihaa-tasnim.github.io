@@ -420,7 +420,7 @@ img {
 
 .logo span.logo-dot,
 .footer-big-logo span.logo-dot {
-    color: var(--brand-green);
+    color: #ffffff;
 }
 
 .navbar {
@@ -1346,15 +1346,15 @@ img {
 }
 
 .footer-big-logo .logo-char-1 {
-    color: hsla(255, 48%, 46%, 0.849);
+    color: hsla(255, 42%, 51%, 0.94);
 }
 
 .footer-big-logo .logo-char-2 {
-    color: hsla(272, 65%, 34%, 0.72);
+    color: hsl(272, 50%, 60%);
 }
 
 .footer-big-logo .logo-char-3 {
-    color: hsl(277, 28%, 62%);
+    color: #781c8fbf;
 }
 
 .footer-content {
